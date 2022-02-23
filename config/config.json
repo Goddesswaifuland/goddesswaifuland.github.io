@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x20280EB68cdA0d490082e9d474704E1c3de35e4a",
+  "SCAN_LINK": "https://polygonscan.com/address/0x20280eb68cda0d490082e9d474704e1c3de35e4a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Goddess Of Waifu Land",
+  "SYMBOL": "WF",
+  "MAX_SUPPLY": 333,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-goddess-of-waifu-land",
+  "SHOW_BACKGROUND": false
+}
